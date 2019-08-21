@@ -1,6 +1,5 @@
 # La visibilidad web y recomendaciones para la producción científica de la Universidad Nacional de Chilecito (Argentina)
-
-el objetivo de esta investigación fue diseñar un método para el análisis de la visibilidad web de la producción científica de la Universidad Nacional de Chilecito (UNdeC) y generar un conjunto de recomendaciones para optimizar y promover la publicación científica. 
+El objetivo de esta investigación fue diseñar un método para el análisis de la visibilidad web de la producción científica de la Universidad Nacional de Chilecito (UNdeC) y generar un conjunto de recomendaciones para optimizar y promover la publicación científica. 
 
 La investigación realizada fue proyectiva (Hurtado, 2008) porque implicó la creación y diseño de una propuesta. Se analizó el estado actual de la producción científica en la UNdeC y se desarrollaron un conjunto de estrategias para optimizar la visibilidad web. Se recolectó la información a través de instrumentos de consultas a las bases de datos bibliográficas y los informes técnicos de la Secretaría de Ciencia y Tecnología de la UNdeC. El análisis se hizo en un período de dos años (entre el 2016 y 2018). A su vez, la presentación, codificación e interpretación de los datos se registraron con las hojas de cálculo de Google y con Open Refine 3.0. Los objetivos propuestos en la investigación se organizaron en tres ejes (junto con sus actividades), a saber:
 Conocer la mayoría de la producción científica de la UNdeC.
@@ -23,9 +22,9 @@ Recomendaciones para hacer cambios en los diferentes sitios web de la universida
 Recomendaciones a los estudiantes, profesores e investigadores sobre la forma de publicar y de hacer visible sus diferentes productos relacionados con la investigación.
 
 
-Resultados
+## Resultados
 
-## Eje 1
+### Eje 1
 
 resultados surgen a partir del relevamiento de todos los productos científicos obtenidos (con filiación institucional UNdeC) de Redalyc, Scielo, Google Scholar, Scopus, PoP (software Publish or Perish) y la base de datos de la Secretaría de Ciencia y Tecnología (SeCyT) de la UNdeC:
 Para marzo de 2016, se encontraron 171 productos científicos, presentados por 81 autores con filiación de la UNdeC. En Scopus/Elsevier, se encontraron 50 productos científicos, presentados por 21 autores con filiación de la UNdeC
@@ -35,7 +34,7 @@ Esta información será un insumo para la SeCyT. Se resguardan algunos datos par
 
 Ver las hojas de calculo
 
-## Eje 2
+### Eje 2
 Uno de los ejes más importantes en este trabajo tiene que ver  con la visibilidad web, entendida como el número de enlaces que reciben sitios web, recursos y/o productos científicos en Internet (backlinks o enlaces entrantes). Los resultados fueron:
 Se tomaron los datos del posicionamiento web de la UNdeC (en marzo del 2016 y marzo del 2018). No se analiza este posicionamiento en los diferentes rankings existentes porque no es el objetivo del estudio. Se halló lo siguiente:
 Según el buscador Google, el dominio web principal de la UNdeC tiene 2745 resultados. En Google Scholar, no tenemos un posicionamiento porque no tenemos un repositorio institucional.
@@ -55,7 +54,7 @@ https://ahrefs.com/es/
 https://www.alexa.com/siteinfo/undec.edu.ar 
 http://www.elprofesionaldelainformacion.com/documentos/SIR_Iber_2018.pdf 
 
-## Eje 3
+### Eje 3
 Después de mostrar los resultados obtenidos en los dos anteriores ejes, productos académicos/científicos y posicionamiento de la visibilidad web, a continuación se presentan las estrategias que se tomaron en cuenta al principio del estudio para ayudar al proceso de publicación en la UNdeC:
 Se diseñó y se dictó un curso de nivel de doctorado llamado “Gestión de la información académica y científica” en la UNdeC.
 Se diseñó y se dictó un taller para los docentes-investigadores de la UNdeC sobre “Los procesos de publicación de información académica y científica”.
